@@ -1,5 +1,5 @@
 # Ex04 Simple Calculator - React Project
-## Date:14-03-2026
+## Date:03-11-2026
 ## Name : CHITTOOR SARAVANA MRUDHULA
 ## Reg No : 212224040056
 
