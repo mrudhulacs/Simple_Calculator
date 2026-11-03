@@ -173,10 +173,9 @@ export default App;
 ## OUTPUT
 
 ### input :
-![alt text](simple-calculator/image1.png)
-
+![alt text](image1.png)
 ### output :
-![alt text](simple-calculator/image2.png)
+![alt text](image2.png)
 
 ## RESULT
 The program for developing a simple calculator in React.js is executed successfully.
