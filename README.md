@@ -172,7 +172,10 @@ export default App;
 
 ## OUTPUT
 
+### input :
 ![alt text](simple-calculator/image1.png)
+
+### output :
 ![alt text](simple-calculator/image2.png)
 
 ## RESULT
